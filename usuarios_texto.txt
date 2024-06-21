@@ -1,0 +1,2 @@
+Usuario:adm;Senha:1234 
+Gato:adm=Lua, 10, branca
